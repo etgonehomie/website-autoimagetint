@@ -1,6 +1,4 @@
 # website-autoimagetint
 Website for Auto Image Tint Store
 
-testing update to see if slack is pinged
-
-the end.
+slack is pinged succesfully. lets see what commit changes are shown in slack.
