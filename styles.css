@@ -1,4 +1,20 @@
 
-body {
-    background-image: url("file:///home/etgonehomie/projects/cs50/pset5/homepage/car.gif");
-  }
+.container-fluid {
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto
+ }
+
+
+/*Home Page Styling*/
+.header{
+
+	height:500px;
+	padding-top: 10%;
+	text-align: center;
+    background-image: url("car.gif");
+	background-size:100% 100%;
+
+
+}
